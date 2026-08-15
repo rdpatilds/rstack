@@ -1,0 +1,14 @@
+{
+	"name": "rstack",
+	"description": "Single-plugin marketplace for rstack, a Claude Code port of pstack by Lauren Tan.",
+	"owner": {
+		"name": "rdpatilds"
+	},
+	"plugins": [
+		{
+			"name": "rstack",
+			"source": "./",
+			"description": "rigorous agent workflows you can parallelize with confidence. Claude Code port of pstack by Lauren Tan."
+		}
+	]
+}

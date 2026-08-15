@@ -1,0 +1,22 @@
+{
+	"name": "rstack",
+	"displayName": "rstack",
+	"version": "0.14.1",
+	"description": "if you want to go fast, go deep first. rstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence. Claude Code port of pstack by Lauren Tan.",
+	"author": {
+		"name": "Lauren Tan (original pstack); ported to Claude Code"
+	},
+	"homepage": "https://github.com/rdpatilds/rstack",
+	"repository": "https://github.com/rdpatilds/rstack",
+	"license": "MIT",
+	"keywords": [
+		"rstack",
+		"pstack",
+		"poteto-mode",
+		"workflow",
+		"principles",
+		"agent-style",
+		"subagents",
+		"unslop"
+	]
+}
